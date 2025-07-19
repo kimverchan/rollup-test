@@ -1,5 +1,6 @@
 {
-    "compilerOptions": {},
+    "compilerOptions": {
+    },
     "exclude": [
         "node_modules"
     ]
